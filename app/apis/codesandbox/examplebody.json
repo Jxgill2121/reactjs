@@ -1,0 +1,13 @@
+{
+    "files": {
+      "index.js": {
+        "content": "console.log('hello!')",
+        "isBinary": false
+      },
+      "package.json": {
+        "content": {
+          "dependencies": {}
+        }
+      }
+    }
+  }
